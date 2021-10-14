@@ -1,0 +1,11 @@
+---
+title: "Software"
+---
+
+Shiny applications are **interactive, web-based** tools for statistical analysis and graphics.
+
+## RcountD
+
+Poster: ASA Conference on Statistical Practice 2018
+
+Estimate effect sizes for regression models for count models (Poisson regression and negative binomial regression). Standard multiplicative effect size (rate ratio) and standardized mean difference (Cohen's d) effect sizes are provided. Monte Carlo confidence intervals for each effect size are also given. Presented at the ASA Conference on Statistical Practice, February 2018.

@@ -1,7 +1,67 @@
 ---
-title: "Personal Website"
+title: ""
 ---
+<!-- <style type="text/css"> -->
+<!-- .title { -->
+<!--   display: none; -->
+<!-- } -->
 
-Hello, World!
+<!-- #getting-started img { -->
+<!--   margin-right: 10px; -->
+<!-- } -->
 
-A line from RStudio
+<!-- </style> -->
+
+<!-- <div class="row" style="padding-top: 30px;"> -->
+
+<!-- <div class="col-sm-6"> -->
+
+<!-- # Stefany Coxe -->
+<!-- ## Associate Professor -->
+<!-- ## Quantitative Psychology -->
+<!-- ## Department of Psychology -->
+
+<!-- </div> -->
+
+<!-- <div class="col-sm-6"> -->
+
+<!-- ![](files/fiulogo_square.jpg) -->
+
+<!-- </div> -->
+
+
+# Stefany Coxe {.unlisted .unnumbered}
+## Associate Professor, Quantitative Psychology {.unlisted .unnumbered}
+## Department of Psychology, Florida International University {.unlisted .unnumbered}
+
+***
+
+## Research interests
+
+My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. Behavioral data displays certain qualities (e.g., categorical variables, non-normally distributed variables, frequent clustering of individuals within families, schools, or neighborhoods, missing values) that require specialized statistical methods and approaches.
+
+## Education
+
+**Ph.D., Quantitative Psychology**  
+[Arizona State University](https://psychology.asu.edu/)   
+Dissertation: Analysis of grouped count outcomes with the generalized linear model  
+
+**M.A., Cognitive Psychology**  
+[University of California, San Diego](https://psychology.ucsd.edu/)   
+Thesis: Effect of first language on syntactic priming in a second language  
+
+**B.S., Cognitive Psychology**  
+[University of California, San Diego](https://psychology.ucsd.edu/)   
+Thesis: Syntactic priming in beginning and advanced speakers of a second language
+
+## Contact me  
+
+scoxe [AT] fiu [DOT] edu / 305 348 1827 / MMC DM 275  
+
+![](files/ORCIDiD_icon16x16.png) [0000-0002-2203-0775](https://orcid.org/0000-0002-2203-0775) / 
+[`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ) / [Researchgate](https://www.researchgate.net/profile/Stefany-Coxe) /
+[Linked`r fontawesome::fa(name = "linkedin", fill = "steelblue")`](https://www.linkedin.com/in/stefany-coxe/) /
+[Publons](https://publons.com/researcher/1414795/stefany-coxe/) /
+[`r fontawesome::fa(name = "github", fill = "steelblue")`](https://github.com/stefanycoxe?tab=repositories)
+
+copyright (c) Stefany Coxe 2021

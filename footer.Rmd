@@ -1,0 +1,15 @@
+---
+title: "footer"
+---
+
+Contact me:  
+- scoxe [AT] fiu [DOT] edu
+- 305 348 1827  
+- DM 275  
+- ![](files/ORCIDiD_icon16x16.png) [0000-0002-2203-0775](https://orcid.org/0000-0002-2203-0775)
+- [Google scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
+- [Researchgate](https://www.researchgate.net/profile/Stefany-Coxe)
+- [Linkedin](https://www.linkedin.com/in/stefany-coxe/)
+- [Publons](https://publons.com/researcher/1414795/stefany-coxe/)
+
+copyright (c) Stefany Coxe 2021

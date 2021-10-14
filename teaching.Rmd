@@ -1,0 +1,66 @@
+---
+title: "Teaching"
+---
+
+***
+
+I teach graduate-level applied statistics courses in the Psychology department at FIU. I have also been in charge of developing the graduate statistics training for the department since 2012.
+
+For information about **Quantitative Psychology training in the FIU Psychology department** (including the **Quantitative minor**), go [here](https://stefanycoxe.github.io/quant.html)
+
+## Students
+
+### Current Ph.D. students
+
+Christopher Clifford (co-mentored with Drs. Leslie Frazier and Timothy Hayes) is studying Developmental Science and Quantitative Psychology. His primary research interests involve work that focus on developmental, emotional, and educational quantitative analysis. His dissertation will apply novel and innovative statistical approaches to the study of developmental data to uncover patterns related to the influence of play to promote adaptive outcomes.
+
+### Former Ph.D. students
+
+[April Schantz](https://uwf.edu/ukcoh/departments/psychology/faculty/april-schantz.html) is an assistant professor of psychology at the University of West Florida. Her dissertation examined the impact of person-environment fit on strain and well-being among first responders using response surface regression. 
+
+[Tyler Stout](https://www.linkedin.com/in/tylerstout1/) is a senior data scientist at Antuit.ai. His dissertation examined how variability in cluster size impacts parameter estimates and statistical power in mixed models, with an application to stress in the workplace.
+
+## Current courses
+
+### **Longitudinal Data Analysis (PSY 5939)**  
+
+This course covers topics related to statistical analysis of longitudinal data, focusing on methods used in the social sciences and health research. Topics include analysis of covariance (ANCOVA), difference scores, statistical mediation, mixed models (with correlated residuals and/or with random effects), and latent growth modeling. You will be able to analyze,
+interpret, and write up results using these methods.  
+
+- Syllabi : [Spring 2013](files/Longitudinal syllabus Spring2013.pdf) / 
+[Spring 2014](files/Longitudinal syllabus Spring2014.pdf) / 
+[Spring 2015](files/Longitudinal syllabus Spring2015.pdf) / 
+[Spring 2016](files/Longitudinal syllabus Spring2016.pdf) / 
+[Fall 2018](files/Longitudinal syllabus Fall2018.pdf) / 
+[Spring 2020](files/Longitudinal syllabus Spring2020.pdf)  
+- **Next:** Spring 2022  
+
+### **Categorical Data Analysis (PSY 5939)**  
+
+This course covers topics related to statistical analysis of categorical outcome variables, focusing on methods used in the social sciences. Topics include the generalized linear model (GLiM, including logistic regression and Poisson regression) and repeated measures extensions of GLiM (such as GEE and generalized linear mixed models). You will analyze, interpret, and write up results using these methods.  
+
+- Syllabi: [Spring 2014](files/Categorical syllabus Spring2014.pdf) / 
+[Spring 2015](files/Categorical syllabus Spring2015.pdf) / 
+[Spring 2017](files/Categorical syllabus Spring2017.pdf) / 
+[Fall 2020](files/Categorical syllabus Fall2020.pdf)  
+- **Next:** Fall 2022
+
+### **Statistical Graphics and Communication (PSY 5939)**  
+
+Statistical graphics play an important role in every step of research - from exploration to analysis to model checking to presentation and dissemination.
+Creating quality statistical graphics is a critical aspect of research, but it is rarely emphasized or directly taught. This course will cover techniques for creating graphics at each stage of a research project, as well as more general techniques for communicating your research to different audiences (e.g., scientific researchers outside of your area / psychology, teachers, parents, policy makers, lawyers, business owners).  
+
+- Syllabi: [Fall 2019](files/Graphics syllabus Fall2019.pdf) / 
+[Fall 2021](files/Graphics syllabus Fall2021.pdf)  
+- **Next:** Fall 2023 
+
+## Past courses
+
+### **Multivariate Analysis in Applied Psychological Research (PSY 5246C)**  
+
+- Syllabi: [Fall 2013](files/Multivariate syllabus Fall2013.pdf) / 
+[Fall 2014](files/Multivariate syllabus Fall2014.pdf) / 
+[Fall 2015](files/Multivariate syllabus Fall2015.pdf) / 
+[Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
+[Fall 2017](files/Multivariate syllabus Fall2017.pdf)
+

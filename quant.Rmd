@@ -1,0 +1,50 @@
+---
+title: "Quantitative training for FIU Psychology"
+---
+
+***
+
+## Tentative schedule of courses (updated Fall 2021)
+
+### **Fall 2021** 
+
+- Quant 1 - PSY 5939 (Raiker)
+- Multivariate  - PSY 5246C (Valente)
+- Multilevel Models - PSY 5939 (Hayes)
+- Statistical Graphics and Communication - PSY 5939 (Coxe)
+	
+### **Spring 2022**
+
+- Quant 2 - PSY 5939 (Hayes)
+- Longitudinal Data Analysis - PSY 5939 (Coxe)
+- Data Science for the Social Sciences - PSY 5939 (Timmons)
+- Quasi-experiments and Causal Inference - PSY 5939 (Valente)
+
+## Quantitative minor 
+
+All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C).
+ 
+Students who wish to complete a Minor in Quantitative Psychology are required to complete three (3) additional advanced analytic electives, for a total of 6 statistics courses. Students must achieve a minimum of B- in the course in order for it to be counted toward the minor. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course.
+
+### Approved courses (as of Fall 2021)
+
+- Introduction to SEM for Psychological Research (PSY 5939)
+- Longitudinal Data Analysis (PSY 5939 / PHC 6056)
+- Categorical Data Analysis (PSY 5939)
+- Missing Data (PSY 5939)
+- Multilevel Models (PSY 5939)
+- Data Science for the Social Sciences (PSY 5939)
+- Statistical Graphics and Communication (PSY 5939)
+- Quasi-experiments and Causal Inference (PSY 5939)
+- Mediation (PSY 5939) 
+- Systematic Review & Meta-Analysis (PHC 6062)
+- Hierarchical Linear Modeling for Educational Research (EDF 7489)
+- High Dimension Data Analysis (STA 6636)
+- Network Analysis for Education and Social Science (SCE 7990)
+
+NOTE: This is a departmental minor and therefore does not appear on your final transcript or diploma. This is also true of your Ph.D. concentration; your diploma will read that you received a Ph.D. in Psychology, not Developmental Science, Clinical Science, etc.
+
+### Application
+
+Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the Quantitative minor
+

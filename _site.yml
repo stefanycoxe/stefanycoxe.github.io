@@ -1,9 +1,29 @@
-name: "personal-website"
+name: "academic-website"
 output_dir: "."
 navbar:
   title: "Stefany Coxe"
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "Research"
       href: research.html
+      icon: fa-code
+    - text: "Teaching"
+      href: teaching.html
+      icon: fa-laptop
+    - text: "Service"
+      href: service.html
+      icon: fa-award
+  right:
+    - text: "QuantPsych"
+      href: quant.html
+      icon: fa-line-chart
+output:
+  html_document: 
+    css: style.css
+    theme: flatly
+    toc: true
+    toc_float: true
+
+
