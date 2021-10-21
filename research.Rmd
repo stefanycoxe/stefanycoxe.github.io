@@ -10,7 +10,7 @@ My research focuses on **evaluating** and **applying** advanced statistical meth
 
 ## Quantitative research
 
-### **Generalized linear model (GLiM).** 
+### **Generalized linear model (GLiM)** 
 
 GLiMs are a broad family of statistical models that extend linear regression analysis to a wider range of outcome variable distributions and error structures. I use *simulations* to explore the performance of these models. I am particularly interested in the statistical characteristics of counts outcome variables, especially in statistical mediation models.
 
@@ -20,7 +20,7 @@ GLiMs are a broad family of statistical models that extend linear regression ana
 - **Coxe, S.** (2010). Mediation analysis of Poisson distributed count outcomes: Standard estimates of the mediated effect are not equivalent. Presented at the 8th Annual Society of Multivariate Experimental Psychology Graduate Student Pre-conference. Atlanta, GA. September 30, 2010.
 - **Coxe, S.**, West, S. G., and Aiken, L. S. (2009). The analysis of count data: A gentle introduction to Poisson regression and its alternatives. Journal of Personality Assessment, 91, 121-136. 
 
-### **Integrative data analysis (IDA).** 
+### **Integrative data analysis (IDA)** 
 
 I am joint co-PI on [TIDAL](https://doi.org/10.1186/s12888-020-02734-6), an integrative data analysis project funded by [NIMH](https://reporter.nih.gov/project-details/9509965) combining data from 4 separate psychosocial interventions for teens who have been diagnosed with ADHD. The combined dataset is publicly available [here](https://nda.nih.gov/data_structure.html?short_name=tidal01). Among the methodological challenges in this project were harmonization of measures of ADHD symptoms (DSM-IV versus DSM-5) and parent depression symptoms (various measures) using moderated nonlinear factor analysis.
 
@@ -28,7 +28,7 @@ I am joint co-PI on [TIDAL](https://doi.org/10.1186/s12888-020-02734-6), an inte
 - **Coxe, S.**, Sibley, M.H., & Becker, S.P. (in press). Presenting Problem Profiles for Adolescents with ADHD: Differences by Sex, Age, Race, and Family Adversity. Child and Adolescent Mental Health. 
 - Sibley, M.H. & **Coxe, S.** (2020). The ADHD Teen Integrative Data Analysis Longitudinal (TIDAL) Dataset: Background, Methodology, and Aims. BMC Psychiatry. 
 
-### **Statistical graphics and R shiny**. 
+### **Statistical graphics and R shiny** 
 
 I am interested in graphics as an aid to interpreting and communicating statistical models. To this end, I have developed `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications to calculate effect size for count regression models and mediation models. `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications are **interactive, web-based** tools for statistical analysis and graphics.
 
