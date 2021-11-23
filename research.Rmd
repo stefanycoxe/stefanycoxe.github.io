@@ -38,6 +38,8 @@ I am interested in graphics as an aid to interpreting and communicating statisti
 
 - [SimpleMediation](https://stefany.shinyapps.io/SimpleMediation/): Estimate indirect (mediated) effect with Monte Carlo simulated confidence intervals. This app was developed for pedagogical purposes.
 
+- I teach a course on **Statistical Graphics and Communication** in the Psychology department. This course covers a variety of topics, including **R**, **ggplot**, **markdown**, and **shiny**. Most of the materials for the *first version* of the course from 2019 are available here: [https://stefanycoxe.github.io/graphics_2019/](https://stefanycoxe.github.io/graphics_2019/)
+
 ## Applied research 
 
 My applied research takes place largely in the context of clinical and psychosocial interventions. I am affiliated with the Center for Children and Families (CCF) at Florida International University, where I help evaluate aspects of the Summer Treatment Program (STP) for children and adolescents with attention-deficit-hyperactivity disorder (ADHD), interventions to improve infant and toddler mental health, and child mental health adjustment following traumatic events. These studies include complex longitudinal designs, non-normally distributed outcome variables, and extensive missing data. Previously, I worked at the Prevention Research Center (PRC) at Arizona State University on longitudinal and prospective evaluations of interventions for bereaved children and Mexican-American adolescents, including psychometric analysis of study measures, longitudinal growth models, multilevel regression, and multilevel structural equation models. 

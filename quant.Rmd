@@ -24,7 +24,7 @@ title: "Quantitative training for FIU Psychology"
 
 All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C).
  
-Students who wish to complete a Minor in Quantitative Psychology are required to complete three (3) additional advanced analytic electives, for a total of 6 statistics courses. Students must achieve a minimum of B- in the course in order for it to be counted toward the minor. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course.
+Students who wish to complete a Minor in Quantitative Psychology are required to complete **three (3)** additional advanced analytic electives, for **a total of 6 statistics courses**. Students must achieve a minimum of B- in the course in order for it to be counted toward the minor. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course.
 
 ### Approved courses (as of Fall 2021)
 
