@@ -65,3 +65,5 @@ scoxe [AT] fiu [DOT] edu / 305 348 1827 / MMC DM 275
 [`r fontawesome::fa(name = "github", fill = "steelblue")`](https://github.com/stefanycoxe?tab=repositories)
 
 copyright (c) Stefany Coxe 2021
+
+Last updated `r format(Sys.time(), '%B %d, %Y')`
