@@ -45,7 +45,7 @@ This course covers topics related to statistical analysis of categorical outcome
 [Spring 2015](files/Categorical syllabus Spring2015.pdf) / 
 [Spring 2017](files/Categorical syllabus Spring2017.pdf) / 
 [Fall 2020](files/Categorical syllabus Fall2020.pdf)  
-- **Next:** Fall 2022
+- **Next:** TBD
 
 ### **Statistical Graphics and Communication (PSY 5939)**  
 
@@ -54,7 +54,7 @@ Creating quality statistical graphics is a critical aspect of research, but it i
 
 - Syllabi: [Fall 2019](files/Graphics syllabus Fall2019.pdf) / 
 [Fall 2021](files/Graphics syllabus Fall2021.pdf)  
-- **Next:** Fall 2023 
+- **Next:** TBD
 
 ## Past courses
 
