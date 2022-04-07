@@ -24,6 +24,17 @@ Christopher Clifford (co-mentored with Drs. Leslie Frazier and Timothy Hayes) is
 
 ## Current courses
 
+### **Multivariate Analysis in Applied Psychological Research (PSY 5246C)**  
+
+This course will cover basic techniques of multivariate analysis, emphasizing the rationale and applications to psychological research. Includes matrix algebra, multiple regression, principal component analysis, factor analysis, MANOVA, and mixed models. Topics in this course build on the general linear model (GLM, which includes ANOVA and regression); students are expected to have had graduate-level coursework on ANOVA and regression. 
+
+- Syllabi: [Fall 2013](files/Multivariate syllabus Fall2013.pdf) / 
+[Fall 2014](files/Multivariate syllabus Fall2014.pdf) / 
+[Fall 2015](files/Multivariate syllabus Fall2015.pdf) / 
+[Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
+[Fall 2017](files/Multivariate syllabus Fall2017.pdf)  
+- Next: Fall 2022  
+
 ### **Longitudinal Data Analysis (PSY 5939)**  
 
 This course covers topics related to statistical analysis of longitudinal data, focusing on methods used in the social sciences and health research. Topics include analysis of covariance (ANCOVA), difference scores, statistical mediation, mixed models (with correlated residuals and/or with random effects), and latent growth modeling. You will be able to analyze,
@@ -35,7 +46,7 @@ interpret, and write up results using these methods.
 [Spring 2016](files/Longitudinal syllabus Spring2016.pdf) / 
 [Fall 2018](files/Longitudinal syllabus Fall2018.pdf) / 
 [Spring 2020](files/Longitudinal syllabus Spring2020.pdf)  
-- **Next:** Spring 2022  
+- **Next:** Spring 2024?  
 
 ### **Categorical Data Analysis (PSY 5939)**  
 
@@ -45,7 +56,7 @@ This course covers topics related to statistical analysis of categorical outcome
 [Spring 2015](files/Categorical syllabus Spring2015.pdf) / 
 [Spring 2017](files/Categorical syllabus Spring2017.pdf) / 
 [Fall 2020](files/Categorical syllabus Fall2020.pdf)  
-- **Next:** TBD
+- **Next:** Spring 2023
 
 ### **Statistical Graphics and Communication (PSY 5939)**  
 
@@ -54,15 +65,9 @@ Creating quality statistical graphics is a critical aspect of research, but it i
 
 - Syllabi: [Fall 2019](files/Graphics syllabus Fall2019.pdf) / 
 [Fall 2021](files/Graphics syllabus Fall2021.pdf)  
-- **Next:** TBD
+- **Next:** Spring 2025?
 
 ## Past courses
 
-### **Multivariate Analysis in Applied Psychological Research (PSY 5246C)**  
 
-- Syllabi: [Fall 2013](files/Multivariate syllabus Fall2013.pdf) / 
-[Fall 2014](files/Multivariate syllabus Fall2014.pdf) / 
-[Fall 2015](files/Multivariate syllabus Fall2015.pdf) / 
-[Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
-[Fall 2017](files/Multivariate syllabus Fall2017.pdf)
 
