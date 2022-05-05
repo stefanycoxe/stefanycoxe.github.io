@@ -4,21 +4,7 @@ title: "Quantitative training for FIU Psychology"
 
 ***
 
-## Tentative schedule of courses (updated Fall 2021)
-
-### **Fall 2021** 
-
-- Quant 1 - PSY 5939 (Raiker)
-- Multivariate  - PSY 5246C (Valente)
-- Multilevel Models - PSY 5939 (Hayes)
-- Statistical Graphics and Communication - PSY 5939 (Coxe)
-	
-### **Spring 2022**
-
-- Quant 2 - PSY 5939 (Hayes)
-- Longitudinal Data Analysis - PSY 5939 (Coxe)
-- Data Science for the Social Sciences - PSY 5939 (Timmons)
-- Quasi-experiments and Causal Inference - PSY 5939 (Valente)
+## Tentative schedule of courses (updated Spring 2022)
 
 ### **Fall 2022**
 
@@ -41,7 +27,7 @@ Students who wish to complete a Minor in Quantitative Psychology are required to
 
 Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the Quantitative minor
 
-### Approved courses (as of Fall 2021)
+### Approved courses (as of Spring 2022)
 
 - Introduction to SEM for Psychological Research (PSY 5939)
 - Longitudinal Data Analysis (PSY 5939 / PHC 6056)
