@@ -4,11 +4,11 @@ title: "Research"
 
 ***
 
-My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. My research falls into two broad categories: quantitative research and applied research.
+My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. My research falls into two broad categories: statistical research and applied research.
 
 [CV](files/Coxe_CV 100921.pdf) / [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
 
-## Quantitative research
+## Statistical research
 
 ### **Generalized linear model (GLiM)** 
 
@@ -25,6 +25,7 @@ GLiMs are a broad family of statistical models that extend linear regression ana
 
 I am joint co-PI on [TIDAL](https://doi.org/10.1186/s12888-020-02734-6), an integrative data analysis project funded by [NIMH](https://reporter.nih.gov/project-details/9509965) combining data from 4 separate psychosocial interventions for teens who have been diagnosed with ADHD. The combined dataset is publicly available [here](https://nda.nih.gov/data_structure.html?short_name=tidal01). Among the methodological challenges in this project were harmonization of measures of ADHD symptoms (DSM-IV versus DSM-5) and parent depression symptoms (various measures) using moderated nonlinear factor analysis.
 
+- Zhao, X., **Coxe, S.**, Sibley, M. J., Zulauf-McCurdy, C.A., & Pettit, J. (in press). Harmonizing Depression Measures Across Studies: A Tutorial for Data Harmonization. Prevention Science.  
 - [**Coxe, S.** (2022, April). Integrative data analysis to further replicable science in psychology. At FIU Statistics Annual Mini-Conference in Statistical Methods and Mentoring. Miami, FL. April 8, 2022.](files/Coxe_Stats_040822.html)  
 - Sibley, M. H., **Coxe, S.**, Stein, M.A., Meinzer, M. C., Valente, M. (2022). Predictors of Treatment Engagement and Response among Adolescents with ADHD: An Integrative Data Analysis. Journal of the American Academy of Child and Adolescent and Psychiatry.
 - **Coxe, S.** & Sibley, M. H. (2021). Harmonizing DSM-IV and DSM-5 versions of ADHD "A Criteria": An Item Response Theory Analysis. Assessment.
@@ -33,18 +34,18 @@ I am joint co-PI on [TIDAL](https://doi.org/10.1186/s12888-020-02734-6), an inte
 
 ### **Statistical graphics and R shiny** 
 
-I am interested in graphics as an aid to interpreting and communicating statistical models. To this end, I have developed `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications to calculate effect size for count regression models and mediation models. `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications are **interactive, web-based** tools for statistical analysis and graphics.
+I am interested in graphics as an aid to interpreting and communicating statistical models. To this end, I have developed `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications to calculate effect size for count regression models and to estimate confidence intervals for mediation models. `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications are **interactive, web-based** tools for statistical analysis and graphics.
 
 - [RcountD](https://stefany.shinyapps.io/RcountD/): Estimate effect sizes for regression models for count models (Poisson regression and negative binomial regression). Standard multiplicative effect size (rate ratio) and standardized mean difference (Cohen's *d*) effect sizes are provided. Monte Carlo confidence intervals for each effect size are also given. 
   - [**Coxe, S.** (2018, February). Effect size measures for nonlinear count regression models. Poster presented at the American Statistical Association Conference on Statistical Practice. Portland, OR. February 15 – 17, 2018.](files/Coxe ASA CSP 020618.pdf)
 
 - [SimpleMediation](https://stefany.shinyapps.io/SimpleMediation/): Estimate indirect (mediated) effect with Monte Carlo simulated confidence intervals. This app was developed for pedagogical purposes.
 
-- I teach a course on **Statistical Graphics and Communication** in the Psychology department. This course covers a variety of topics, including **R**, **ggplot**, **markdown**, and **shiny**. Most of the materials for the *first version* of the course from 2019 are available here: [https://stefanycoxe.github.io/graphics_2019/](https://stefanycoxe.github.io/graphics_2019/)
+- I teach a course on **Statistical Graphics and Communication** in the Psychology department. This course covers a variety of topics, including **R**, **ggplot2**, **markdown**, and **shiny**. Most of the materials for the *first version* of the course from 2019 are available here: [https://stefanycoxe.github.io/graphics_2019/](https://stefanycoxe.github.io/graphics_2019/)
 
 ## Applied research 
 
-My applied research takes place largely in the context of clinical and psychosocial interventions. I am affiliated with the Center for Children and Families (CCF) at Florida International University, where I help evaluate aspects of the Summer Treatment Program (STP) for children and adolescents with attention-deficit-hyperactivity disorder (ADHD), interventions to improve infant and toddler mental health, and child mental health adjustment following traumatic events. These studies include complex longitudinal designs, non-normally distributed outcome variables, and extensive missing data. Previously, I worked at the Prevention Research Center (PRC) at Arizona State University on longitudinal and prospective evaluations of interventions for bereaved children and Mexican-American adolescents, including psychometric analysis of study measures, longitudinal growth models, multilevel regression, and multilevel structural equation models. 
+My applied research takes place largely in the context of clinical and psychosocial interventions in the Psychology department and the Center for Children and Families. I also work with faculty in the departments of Epidemiology, Social Work, and Biomedical Engineering. These studies often include complex longitudinal designs, non-normally distributed outcome variables, and extensive missing data. 
 
 - Zhao, X., **Coxe, S.**, Timmons, A., & Frazier, S. L. (2021). Mental Health Information-Seeking Online: A Google Trends Analysis of ADHD. Submitted to Administration and Policy in Mental Health and Mental Health Services Research. September 2020.
 - Sibley, M.H., **Coxe, S.J.**, Page, T.P., Pelham, W.E., Yeguez, C.E., LaCount, P.A., & Barney, S. (2020). Four-Year Follow-up of High versus Low Intensity Summer Treatment for Adolescents with ADHD. Journal of Clinical Child and Adolescent Psychology. 

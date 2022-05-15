@@ -8,7 +8,7 @@ title: "Service"
 
 - Associate Editor for [Frontiers in Psychology: Quantitative Psychology and Measurement](https://www.frontiersin.org/journals/psychology/sections/quantitative-psychology-and-measurement#)
 - Ad Hoc Reviewer for 13 journals and 3 book publishers
-- Reviewer for Congressionally Directed Medical Research Program (CDMRP) grant applications
+- Statistical reviewer for Congressionally Directed Medical Research Program (CDMRP) grant applications
 - Professional affiliations:
     - [Society for Prevention Research](https://www.preventionresearch.org/)
     - [American Psychological Association (Division 5)](https://www.apadivisions.org/division-5/index)
@@ -17,14 +17,17 @@ title: "Service"
 
 ## University service
 
-- Committee member on 25 dissertation committees in Psychology, Epidemiology, Social Work
-- Committee member on 7 thesis committees  
+- Committee member on 28 dissertation committees in Psychology, Epidemiology, Social Work 
+    - Chair or co-chair on 3 dissertation committees
+- Committee member on 10 thesis committees  
 - Department representative (alternate) to College Dissertation Advisor Status Evaluation Committee (DASEC) 
 
 ## Department service
 
 - Statistical consulting for faculty and graduate students
-- Psychology department Colloquium Committee (member and chair)
-- Psychology Bylaws Revision Committee (member and chair)
+- Colloquium Committee (member and chair)
+- Bylaws Revision Committee (member and chair)  
+- Personnel Practices Committee (member)  
+
 
  

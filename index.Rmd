@@ -52,6 +52,7 @@ Dissertation: Analysis of grouped count outcomes with the generalized linear mod
 Thesis: Effect of first language on syntactic priming in a second language  
 
 **B.S., Cognitive Psychology**  
+Minor: Mathematics  
 [University of California, San Diego](https://psychology.ucsd.edu/)   
 Thesis: Syntactic priming in beginning and advanced speakers of a second language
 
