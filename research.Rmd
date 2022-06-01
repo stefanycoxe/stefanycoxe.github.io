@@ -6,7 +6,7 @@ title: "Research"
 
 My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. My research falls into two broad categories: statistical research and applied research.
 
-[CV](files/Coxe_CV 100921.pdf) / [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
+[CV](files/SCoxe_CV 053122.pdf) / [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
 
 ## Statistical research
 
