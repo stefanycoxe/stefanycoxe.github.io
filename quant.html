@@ -13,7 +13,7 @@
 
 <title>Quantitative training for FIU Psychology</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -147,11 +147,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -180,8 +184,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -189,16 +193,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -396,27 +393,32 @@ class="section level2">
 </ul>
 </div>
 </div>
-<div id="quantitative-minor" class="section level2">
-<h2>Quantitative minor</h2>
+<div id="advanced-quantitative-training" class="section level2">
+<h2>Advanced quantitative training</h2>
 <p>All students completing a Ph.D. in the Psychology department
 (<em>Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience</em>) are
 required to complete three common courses covering introductory topics
 in applied statistics and quantitative methods: Quantitative Methods I
 (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate
 Analysis in Applied Psychological Research (PSY 5246C).</p>
-<p>Students who wish to complete a Minor in Quantitative Psychology are
-required to complete <strong>three (3)</strong> additional advanced
-analytic electives, for <strong>a total of 6 statistics
-courses</strong>. Students must achieve a minimum of B- in the course in
-order for it to be counted toward the minor. Electives may be selected
+<p>Students who complete <strong>three (3)</strong> additional advanced
+quantitative methods electives, for <strong>a total of 6 statistics
+courses</strong>, can receive a departmental acknowledgement that they
+have completed <strong>advanced quantitative training</strong>. Students
+must achieve a minimum of B- in each course. Electives may be selected
 from the list of approved courses below, or contact Dr. Stefany Coxe (<a
 href="mailto:stefany.coxe@fiu.edu"
 class="email">stefany.coxe@fiu.edu</a>) for approval of a different
 course.</p>
+<p>Should you have any questions about the content and rigor of our
+advanced quantitative courses, please feel free to contact Dr. Shannon
+Pruden at (<a href="mailto:sdick@fiu.edu"
+class="email">sdick@fiu.edu</a>) or (305) 348-2784.</p>
 <div id="application" class="section level3">
 <h3>Application</h3>
 <p>Go <a href="https://webforms.fiu.edu/view.php?id=1426644">here</a> to
-complete the application form for the Quantitative minor</p>
+complete the application form for the <strong>advanced quantitative
+training</strong> memo.</p>
 </div>
 <div id="approved-courses-as-of-spring-2022" class="section level3">
 <h3>Approved courses (as of Spring 2022)</h3>
@@ -439,10 +441,8 @@ complete the application form for the Quantitative minor</p>
 <p>* This course is no longer being offered</p>
 <p>For courses outside the Psychology department, check the schedule of
 classes</p>
-<p>NOTE: This is a departmental minor and therefore does not appear on
-your final transcript or diploma. This is also true of your
-Ph.D. concentration; your diploma will read that you received a Ph.D. in
-Psychology, not Developmental Science, Clinical Science, etc.</p>
+<p>NOTE: This is a departmental acknowledgement of advanced training and
+does not appear on your final transcript or diploma.</p>
 </div>
 </div>
 

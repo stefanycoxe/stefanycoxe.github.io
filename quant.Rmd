@@ -17,15 +17,17 @@ title: "Quantitative training for FIU Psychology"
 - Quant 2 - PSY 5939 (Hayes)
 - Categorical Data Analysis - PSY 5939 (Coxe)
 
-## Quantitative minor 
+## Advanced quantitative training 
 
 All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C).
  
-Students who wish to complete a Minor in Quantitative Psychology are required to complete **three (3)** additional advanced analytic electives, for **a total of 6 statistics courses**. Students must achieve a minimum of B- in the course in order for it to be counted toward the minor. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course.
+Students who complete **three (3)** additional advanced quantitative methods electives, for **a total of 6 statistics courses**, can receive a departmental acknowledgement that they have completed **advanced quantitative training**. Students must achieve a minimum of B- in each course. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course. 
+
+Should you have any questions about the content and rigor of our advanced quantitative courses, please feel free to contact Dr. Shannon Pruden at (<sdick@fiu.edu>) or (305) 348-2784. 
 
 ### Application
 
-Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the Quantitative minor
+Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the **advanced quantitative training** memo.
 
 ### Approved courses (as of Spring 2022)
 
@@ -47,7 +49,7 @@ Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the applicat
 
 For courses outside the Psychology department, check the schedule of classes
 
-NOTE: This is a departmental minor and therefore does not appear on your final transcript or diploma. This is also true of your Ph.D. concentration; your diploma will read that you received a Ph.D. in Psychology, not Developmental Science, Clinical Science, etc.
+NOTE: This is a departmental acknowledgement of advanced training and does not appear on your final transcript or diploma. 
 
 
 
