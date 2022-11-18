@@ -65,9 +65,10 @@ Thesis: Syntactic priming in beginning and advanced speakers of a second languag
 
 [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ) /
 [`r fontawesome::fa(name = "github", fill = "steelblue")` github](https://github.com/stefanycoxe?tab=repositories) /
-[Researchgate](https://www.researchgate.net/profile/Stefany-Coxe) /
-![](files/ORCIDiD_icon16x16.png) [0000-0002-2203-0775](https://orcid.org/0000-0002-2203-0775) / [Linked`r fontawesome::fa(name = "linkedin", fill = "steelblue")`](https://www.linkedin.com/in/stefany-coxe/) /
-[Publons](https://publons.com/researcher/1414795/stefany-coxe/)
+[`r fontawesome::fa(name = "mastodon", fill = "steelblue")` Mastodon](https://fosstodon.org/@stefany){rel="me"} / ![](files/ORCIDiD_icon16x16.png)[ORCID](https://orcid.org/0000-0002-2203-0775) / [Linked`r fontawesome::fa(name = "linkedin", fill = "steelblue")`](https://www.linkedin.com/in/stefany-coxe/) /
+[Publons](https://publons.com/researcher/1414795/stefany-coxe/) /
+[Researchgate](https://www.researchgate.net/profile/Stefany-Coxe)
+
 
 <!-- copyright (c) Stefany Coxe 2021 -->
 
