@@ -4,11 +4,11 @@ title: "Teaching"
 
 ***
 
-I teach graduate-level applied statistics courses in the Psychology department at FIU. I have also been in charge of developing the graduate statistics training for the department since 2012. I have completed [Remote Teach Ready](https://www.credly.com/badges/e98c094b-b273-4b25-8799-3988d8c42320/public_url) and [Online Live](https://www.credly.com/badges/1ddc7049-d752-4331-a495-db4940eb541a/public_url) training.
+I teach graduate-level applied statistics courses in the Psychology department at FIU. I have also been in charge of developing the graduate statistics training for the department since 2012. I have completed [Remote Teach Ready](https://www.credly.com/badges/e98c094b-b273-4b25-8799-3988d8c42320/public_url), [Online Live](https://www.credly.com/badges/1ddc7049-d752-4331-a495-db4940eb541a/public_url), and Hybrid training.
 
 <!-- <img src="files/remote-teach-ready.png"><img src="files/online-live.png"> -->
 
-For information about **Quantitative Psychology training in the FIU Psychology department** (including the **Quantitative minor**), go [here](https://stefanycoxe.github.io/quant.html)
+For information about **Quantitative Psychology training in the FIU Psychology department** (including **advanced Quantitative training**), go [here](https://stefanycoxe.github.io/quant.html)
 
 ## Students
 
@@ -32,8 +32,9 @@ This course will cover basic techniques of multivariate analysis, emphasizing th
 [Fall 2014](files/Multivariate syllabus Fall2014.pdf) / 
 [Fall 2015](files/Multivariate syllabus Fall2015.pdf) / 
 [Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
-[Fall 2017](files/Multivariate syllabus Fall2017.pdf)  
-- Next: Fall 2022  
+[Fall 2017](files/Multivariate syllabus Fall2017.pdf) / 
+[Fall 2022](files/Multivariate-syllabus-Fall-2022.pdf)
+- Next: Fall 2023  
 
 ### **Longitudinal Data Analysis (PSY 5939)**  
 
