@@ -4,18 +4,31 @@ title: "Quantitative training for FIU Psychology"
 
 ***
 
-## Tentative schedule of courses (updated Spring 2022)
+## Tentative schedule of courses (updated Spring 2023)
 
-### **Fall 2022**
+### **Fall 2023**
 
 - Quant 1 - PSY 5939 (Dick)
 - Multivariate  - PSY 5246C (Coxe)
-- Structural Equation Modeling - PSY 5939 (Hayes)
+- Multilevel Modeling - PSY 5939 (Hayes)
 
-### **Spring 2023**
+### **Spring 2024**
 
 - Quant 2 - PSY 5939 (Hayes)
-- Categorical Data Analysis - PSY 5939 (Coxe)
+- Structural Equation Modeling - PSY 5939 (Hayes)
+- Longitudinal Data Analysis - PSY 5939 (Coxe)
+
+### **Fall 2024**
+
+- Quant 1 - PSY 5939 (Dick)
+- Multivariate  - PSY 5246C (Coxe)
+- TBD - PSY 5939 (Hayes)
+
+### **Spring 2025**
+
+- Quant 2 - PSY 5939 (Hayes)
+- TBD - PSY 5939 (Hayes)
+- Statistical Graphics and Communication - PSY 5939 (Coxe)
 
 ## Advanced quantitative training 
 
