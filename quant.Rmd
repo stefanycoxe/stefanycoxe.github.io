@@ -4,7 +4,7 @@ title: "Quantitative training for FIU Psychology"
 
 ***
 
-## Tentative schedule of courses (updated Spring 2023)
+## Tentative schedule of courses (updated **Summer 2023**)
 
 ### **Fall 2023**
 
@@ -16,25 +16,13 @@ title: "Quantitative training for FIU Psychology"
 
 - Quant 2 - PSY 5939 (Hayes)
 - Structural Equation Modeling - PSY 5939 (Hayes)
-- Longitudinal Data Analysis - PSY 5939 (Coxe)
-
-### **Fall 2024**
-
-- Quant 1 - PSY 5939 (Dick)
-- Multivariate  - PSY 5246C (Coxe)
-- TBD - PSY 5939 (Hayes)
-
-### **Spring 2025**
-
-- Quant 2 - PSY 5939 (Hayes)
-- TBD - PSY 5939 (Hayes)
-- Statistical Graphics and Communication - PSY 5939 (Coxe)
+- **Longitudinal Data Analysis will not be offered**
 
 ## Advanced quantitative training 
 
 All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C).
  
-Students who complete **three (3)** additional advanced quantitative methods electives, for **a total of 6 statistics courses**, can receive a departmental acknowledgement that they have completed **advanced quantitative training**. Students must achieve a minimum of B- in each course. Electives may be selected from the list of approved courses below, or contact Dr. Stefany Coxe (<stefany.coxe@fiu.edu>) for approval of a different course. 
+Students who complete **three (3)** additional advanced quantitative methods electives, for **a total of 6 statistics courses**, can receive a departmental acknowledgement that they have completed **advanced quantitative training**. Students must achieve a minimum of B- in each course. Electives may be selected from the list of approved courses below, or contact Dr. Shannon Pruden at (<sdick@fiu.edu>) for approval of a different course. 
 
 Should you have any questions about the content and rigor of our advanced quantitative courses, please feel free to contact Dr. Shannon Pruden at (<sdick@fiu.edu>) or (305) 348-2784. 
 

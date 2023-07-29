@@ -46,8 +46,8 @@ interpret, and write up results using these methods.
 [Spring 2015](files/Longitudinal syllabus Spring2015.pdf) / 
 [Spring 2016](files/Longitudinal syllabus Spring2016.pdf) / 
 [Fall 2018](files/Longitudinal syllabus Fall2018.pdf) / 
-[Spring 2020](files/Longitudinal syllabus Spring2020.pdf)  
-- **Next:** Spring 2024?  
+[Spring 2020](files/Longitudinal syllabus Spring2020.pdf) /
+[Spring 2022](files/Longitudinal-syllabus-Spring-2023.pdf)
 
 ### **Categorical Data Analysis (PSY 5939)**  
 
@@ -56,8 +56,8 @@ This course covers topics related to statistical analysis of categorical outcome
 - Syllabi: [Spring 2014](files/Categorical syllabus Spring2014.pdf) / 
 [Spring 2015](files/Categorical syllabus Spring2015.pdf) / 
 [Spring 2017](files/Categorical syllabus Spring2017.pdf) / 
-[Fall 2020](files/Categorical syllabus Fall2020.pdf)  
-- **Next:** Spring 2023
+[Fall 2020](files/Categorical syllabus Fall2020.pdf) /
+[Spring 2023](files/Categorical-syllabus-Spring2023.pdf)
 
 ### **Statistical Graphics and Communication (PSY 5939)**  
 
@@ -66,7 +66,6 @@ Creating quality statistical graphics is a critical aspect of research, but it i
 
 - Syllabi: [Fall 2019](files/Graphics syllabus Fall2019.pdf) / 
 [Fall 2021](files/Graphics syllabus Fall2021.pdf)  
-- **Next:** Spring 2025?
 
 ## Past courses
 
