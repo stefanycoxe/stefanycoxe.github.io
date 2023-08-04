@@ -12,17 +12,15 @@ For information about **Quantitative Psychology training in the FIU Psychology d
 
 ## Students
 
-### Current Ph.D. students
-
-[Christopher Clifford](https://www.linkedin.com/in/christophermclifford/) (co-mentored with Drs. Leslie Frazier and Timothy Hayes) is studying Developmental Science and Quantitative Psychology. His primary research interests involve work that focus on developmental, emotional, and educational quantitative analysis. His dissertation will apply novel and innovative statistical approaches to the study of developmental data to uncover patterns related to the influence of play to promote adaptive outcomes.
-
 ### Former Ph.D. students
+
+[Christopher Clifford](https://www.linkedin.com/in/christophermclifford/) (co-mentored with Drs. Leslie Frazier and Timothy Hayes) studied Developmental Science and Quantitative Psychology. His primary research interests involve work that focus on developmental, emotional, and educational quantitative analysis. His dissertation used advanced statistical approaches (i.e., SEM, SAM, factor score regression) to examine how play promotes adaptive outcomes; he also demonstrated how the different statistical approaches performed in real and simulated data.
 
 [April Schantz](https://uwf.edu/ukcoh/departments/psychology/faculty/april-schantz.html) (co-mentored with Dr. Valentina Bruk-Lee) is an assistant professor of Industrial-Organizational Psychology at the University of West Florida. Her dissertation examined the impact of person-environment fit on strain and well-being among first responders using response surface regression. [Dissertation](https://digitalcommons.fiu.edu/etd/3768/)
 
 [Tyler Stout](https://www.linkedin.com/in/tylerstout1/) is a senior data scientist at Zebra / Antuit.ai. His dissertation examined how variability in cluster size impacts parameter estimates and statistical power in mixed models, with an application to stress in the workplace. [Dissertation](https://digitalcommons.fiu.edu/etd/2979/)
 
-## Current courses
+## Courses
 
 ### **Multivariate Analysis in Applied Psychological Research (PSY 5246C)**  
 
@@ -47,7 +45,7 @@ interpret, and write up results using these methods.
 [Spring 2016](files/Longitudinal syllabus Spring2016.pdf) / 
 [Fall 2018](files/Longitudinal syllabus Fall2018.pdf) / 
 [Spring 2020](files/Longitudinal syllabus Spring2020.pdf) /
-[Spring 2022](files/Longitudinal-syllabus-Spring-2023.pdf)
+[Spring 2022](files/Longitudinal-syllabus-Spring-2022.pdf)
 
 ### **Categorical Data Analysis (PSY 5939)**  
 
@@ -66,8 +64,4 @@ Creating quality statistical graphics is a critical aspect of research, but it i
 
 - Syllabi: [Fall 2019](files/Graphics syllabus Fall2019.pdf) / 
 [Fall 2021](files/Graphics syllabus Fall2021.pdf)  
-
-## Past courses
-
-
 

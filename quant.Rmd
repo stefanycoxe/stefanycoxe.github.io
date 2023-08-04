@@ -18,39 +18,41 @@ title: "Quantitative training for FIU Psychology"
 - Structural Equation Modeling - PSY 5939 (Hayes)
 - **Longitudinal Data Analysis will not be offered**
 
-## Advanced quantitative training 
+**See Dr. Timothy Hayes' website [here](https://www.timhayesquant.com/teaching) for future course offerings**
 
-All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C).
- 
-Students who complete **three (3)** additional advanced quantitative methods electives, for **a total of 6 statistics courses**, can receive a departmental acknowledgement that they have completed **advanced quantitative training**. Students must achieve a minimum of B- in each course. Electives may be selected from the list of approved courses below, or contact Dr. Shannon Pruden at (<sdick@fiu.edu>) for approval of a different course. 
+<!-- ## Advanced quantitative training  -->
 
-Should you have any questions about the content and rigor of our advanced quantitative courses, please feel free to contact Dr. Shannon Pruden at (<sdick@fiu.edu>) or (305) 348-2784. 
+<!-- All students completing a Ph.D. in the Psychology department (*Ph.D. in Psychology or Ph.D. in Cognitive Neuroscience*) are required to complete three common courses covering introductory topics in applied statistics and quantitative methods: Quantitative Methods I (PSY 5939), Quantitative Methods II (PSY 5939), and Multivariate Analysis in Applied Psychological Research (PSY 5246C). -->
 
-### Application
+<!-- Students who complete **three (3)** additional advanced quantitative methods electives, for **a total of 6 statistics courses**, can receive a departmental acknowledgement that they have completed **advanced quantitative training**. Students must achieve a minimum of B- in each course. Electives may be selected from the list of approved courses below, or contact Dr. Shannon Pruden at (<sdick@fiu.edu>) for approval of a different course.  -->
 
-Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the **advanced quantitative training** memo.
+<!-- Should you have any questions about the content and rigor of our advanced quantitative courses, please feel free to contact Dr. Shannon Pruden at (<sdick@fiu.edu>) or (305) 348-2784.  -->
 
-### Approved courses (as of Spring 2022)
+<!-- ### Application -->
 
-- Introduction to SEM for Psychological Research (PSY 5939)
-- Longitudinal Data Analysis (PSY 5939 / PHC 6056)
-- Categorical Data Analysis (PSY 5939)
-- Missing Data (PSY 5939)
-- Multilevel Models (PSY 5939)
-- Statistical Graphics and Communication (PSY 5939)
-- Hierarchical Linear Modeling for Educational Research (EDF 7489)
-- High Dimension Data Analysis (STA 6636)
-- Systematic Review & Meta-Analysis (PHC 6062)
-- Network Analysis for Education and Social Science (SCE 7990)
-- Data Science for the Social Sciences (PSY 5939) *
-- Quasi-experiments and Causal Inference (PSY 5939) *
-- Mediation (PSY 5939) *
+<!-- Go [here](https://webforms.fiu.edu/view.php?id=1426644) to complete the application form for the **advanced quantitative training** memo. -->
 
-\* This course is no longer being offered
+<!-- ### Approved courses (as of Spring 2022) -->
 
-For courses outside the Psychology department, check the schedule of classes
+<!-- - Introduction to SEM for Psychological Research (PSY 5939) -->
+<!-- - Longitudinal Data Analysis (PSY 5939 / PHC 6056) -->
+<!-- - Categorical Data Analysis (PSY 5939) -->
+<!-- - Missing Data (PSY 5939) -->
+<!-- - Multilevel Models (PSY 5939) -->
+<!-- - Statistical Graphics and Communication (PSY 5939) -->
+<!-- - Hierarchical Linear Modeling for Educational Research (EDF 7489) -->
+<!-- - High Dimension Data Analysis (STA 6636) -->
+<!-- - Systematic Review & Meta-Analysis (PHC 6062) -->
+<!-- - Network Analysis for Education and Social Science (SCE 7990) -->
+<!-- - Data Science for the Social Sciences (PSY 5939) * -->
+<!-- - Quasi-experiments and Causal Inference (PSY 5939) * -->
+<!-- - Mediation (PSY 5939) * -->
 
-NOTE: This is a departmental acknowledgement of advanced training and does not appear on your final transcript or diploma. 
+<!-- \* This course is no longer being offered -->
+
+<!-- For courses outside the Psychology department, check the schedule of classes -->
+
+<!-- NOTE: This is a departmental acknowledgement of advanced training and does not appear on your final transcript or diploma.  -->
 
 
 
