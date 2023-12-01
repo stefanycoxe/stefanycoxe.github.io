@@ -31,9 +31,8 @@ title: "Stefany Coxe"
 
 
 <!-- # Stefany Coxe {.unlisted .unnumbered} -->
-## Associate Professor, Quantitative Psychology {.unlisted .unnumbered}
-## Department of Psychology {.unlisted .unnumbered}
-## Florida International University {.unlisted .unnumbered}
+## Research Scientist, Cedars-Sinai Medical Center {.unlisted .unnumbered}
+## Associate Professor, Florida International University {.unlisted .unnumbered}
 
 ***
 
@@ -58,10 +57,9 @@ Thesis: Syntactic priming in beginning and advanced speakers of a second languag
 
 ## Contact me  
 
-- scoxe [AT] fiu [DOT] edu  
-- 305 348 1827  
-- MMC DM 275  
-
+<!-- - scoxe [AT] fiu [DOT] edu   -->
+<!-- - 305 348 1827   -->
+<!-- - MMC DM 275   -->
 
 [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ) /
 [`r fontawesome::fa(name = "github", fill = "steelblue")` github](https://github.com/stefanycoxe?tab=repositories) /
