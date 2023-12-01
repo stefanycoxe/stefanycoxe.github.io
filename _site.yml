@@ -15,14 +15,14 @@ navbar:
     - text: "Service"
       href: service.html
       icon: fa-award
-  right:
-    - text: "QuantPsych"
-      href: quant.html
-      icon: fa-line-chart
+#  right:
+#    - text: "QuantPsych"
+#      href: quant.html
+#      icon: fa-line-chart
 output:
   html_document: 
-    css: style.css
-    theme: flatly
+    #css: style.css
+    theme: cosmo #flatly
     toc: true
     toc_float: true
 
