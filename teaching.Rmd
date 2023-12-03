@@ -32,6 +32,7 @@ This course will cover basic techniques of multivariate analysis, emphasizing th
 [Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
 [Fall 2017](files/Multivariate syllabus Fall2017.pdf) / 
 [Fall 2022](files/Multivariate-syllabus-Fall-2022.pdf) /
+[Fall 2022](files/Multivariate-syllabus-Fall-2022.pdf) /
 [Fall 2023](files/Multivariate-syllabus-Fall-2023.pdf)  
 
 ### **Longitudinal Data Analysis (PSY 5939)**  
