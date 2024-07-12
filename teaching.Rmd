@@ -4,7 +4,9 @@ title: "Teaching"
 
 ***
 
-I teach graduate-level applied statistics courses in the Psychology department at FIU. I have also been in charge of developing the graduate statistics training for the department since 2012. I have completed [Remote Teach Ready](https://www.credly.com/badges/e98c094b-b273-4b25-8799-3988d8c42320/public_url), [Online Live](https://www.credly.com/badges/1ddc7049-d752-4331-a495-db4940eb541a/public_url), and Hybrid training.
+I currently teach graduate-level Introduction to Biostatistics for the Biomedical Sciences Ph.D. program at Cedars-Sinai Medical Center.
+
+I spent more than 11 years teaching graduate-level applied statistics courses in the Psychology department at Florida International University. I developed and oversaw the graduate statistics training for the department from 2012 to 2023. I have completed [Remote Teach Ready](https://www.credly.com/badges/e98c094b-b273-4b25-8799-3988d8c42320/public_url), [Online Live](https://www.credly.com/badges/1ddc7049-d752-4331-a495-db4940eb541a/public_url), and Hybrid training.
 
 <!-- <img src="files/remote-teach-ready.png"><img src="files/online-live.png"> -->
 
@@ -22,9 +24,15 @@ I teach graduate-level applied statistics courses in the Psychology department a
 
 ## Courses
 
+### **Introduction to Biostatistics (BTS 510)**
+
+This course covers topics related to statistical analysis of experimental studies. Topics include using and manipulating datasets, plotting data, probability, estimation and uncertainty, and statistical methods for experimental designs, such as comparing 2 independent or dependent means, comparing 2 independent or dependent proportions, and controlling for multiple comparisons.
+
+- Course website: [Summer 2024](https://stefanycoxe.github.io/BTS510_Summer24/)
+
 ### **Multivariate Analysis in Applied Psychological Research (PSY 5246C)**  
 
-This course will cover basic techniques of multivariate analysis, emphasizing the rationale and applications to psychological research. Includes matrix algebra, multiple regression, principal component analysis, factor analysis, MANOVA, and mixed models. Topics in this course build on the general linear model (GLM, which includes ANOVA and regression); students are expected to have had graduate-level coursework on ANOVA and regression. 
+This course covers basic techniques of multivariate analysis, emphasizing the rationale and applications to psychological research. Includes matrix algebra, multiple regression, principal component analysis, factor analysis, MANOVA, and mixed models. Topics in this course build on the general linear model (GLM, which includes ANOVA and regression); students are expected to have had graduate-level coursework on ANOVA and regression. 
 
 - Syllabi: [Fall 2013](files/Multivariate syllabus Fall2013.pdf) / 
 [Fall 2014](files/Multivariate syllabus Fall2014.pdf) / 
@@ -32,13 +40,11 @@ This course will cover basic techniques of multivariate analysis, emphasizing th
 [Fall 2016](files/Multivariate syllabus Fall2016.pdf) /
 [Fall 2017](files/Multivariate syllabus Fall2017.pdf) / 
 [Fall 2022](files/Multivariate-syllabus-Fall-2022.pdf) /
-[Fall 2022](files/Multivariate-syllabus-Fall-2022.pdf) /
 [Fall 2023](files/Multivariate-syllabus-Fall-2023.pdf)  
 
 ### **Longitudinal Data Analysis (PSY 5939)**  
 
-This course covers topics related to statistical analysis of longitudinal data, focusing on methods used in the social sciences and health research. Topics include analysis of covariance (ANCOVA), difference scores, statistical mediation, mixed models (with correlated residuals and/or with random effects), and latent growth modeling. You will be able to analyze,
-interpret, and write up results using these methods.  
+This course covers topics related to statistical analysis of longitudinal data, focusing on methods used in the social sciences and health research. Topics include analysis of covariance (ANCOVA), difference scores, statistical mediation, mixed models (with correlated residuals and/or with random effects), and latent growth modeling. Students will be able to analyze, interpret, and write up results using these methods.  
 
 - Syllabi : [Spring 2013](files/Longitudinal syllabus Spring2013.pdf) / 
 [Spring 2014](files/Longitudinal syllabus Spring2014.pdf) / 
@@ -50,7 +56,7 @@ interpret, and write up results using these methods.
 
 ### **Categorical Data Analysis (PSY 5939)**  
 
-This course covers topics related to statistical analysis of categorical outcome variables, focusing on methods used in the social sciences. Topics include the generalized linear model (GLiM, including logistic regression and Poisson regression) and repeated measures extensions of GLiM (such as GEE and generalized linear mixed models). You will analyze, interpret, and write up results using these methods.  
+This course covers topics related to statistical analysis of categorical outcome variables, focusing on methods used in the social sciences. Topics include the generalized linear model (GLiM, including logistic regression and Poisson regression) and repeated measures extensions of GLiM (such as GEE and generalized linear mixed models). Students will analyze, interpret, and write up results using these methods.  
 
 - Syllabi: [Spring 2014](files/Categorical syllabus Spring2014.pdf) / 
 [Spring 2015](files/Categorical syllabus Spring2015.pdf) / 

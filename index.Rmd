@@ -1,5 +1,5 @@
 ---
-title: "Stefany Coxe"
+title: "Stefany Coxe, Ph.D."
 ---
 <!-- <style type="text/css"> -->
 <!-- .title { -->
@@ -31,8 +31,9 @@ title: "Stefany Coxe"
 
 
 <!-- # Stefany Coxe {.unlisted .unnumbered} -->
-## Research Scientist, Cedars-Sinai Medical Center {.unlisted .unnumbered}
-## Associate Professor, Florida International University {.unlisted .unnumbered}
+<!-- ## Research Scientist II, Cedars-Sinai Medical Center {.unlisted .unnumbered} -->
+<!-- ## Associate Professor, Department of Computational Biomedicine {.unlisted .unnumbered} -->
+<!-- ## Associate Professor, Florida International University {.unlisted .unnumbered} -->
 
 ***
 
@@ -40,9 +41,21 @@ title: "Stefany Coxe"
 
 My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. Behavioral data displays certain qualities (e.g., categorical variables, non-normally distributed variables, frequent clustering of individuals within families, schools, or neighborhoods, missing values) that require specialized statistical methods and approaches.
 
+## Employment
+
+**Cedars-Sinai Medical Center**  
+December 2023 - present  
+Research Scientist II  
+[Faculty Biostatistician, Cancer Institute](https://www.cedars-sinai.edu/research-education/research/cores/biostatistics-shared-resource/team.html)  
+Associate Professor, [Department of Computational Biomedicine](https://researchers.cedars-sinai.edu/search?by=text&type=user&d=Computational%20Biomedicine)  
+
+**Florida International University**  
+August 2012 - December 2023  
+Associate Professor, Department of Psychology  
+
 ## Education
 
-**Ph.D., Quantitative Psychology**  
+**Ph.D., Quantitative Research Methods in Psychology**  
 [Arizona State University](https://psychology.asu.edu/)   
 Dissertation: Analysis of grouped count outcomes with the generalized linear model  
 

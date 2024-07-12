@@ -4,9 +4,9 @@ title: "Research"
 
 ***
 
-My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral data. My research falls into two broad categories: statistical research and applied research.
+My research focuses on **evaluating** and **applying** advanced statistical methods to behavioral and health data. My research falls into two broad categories: statistical research and applied research.
 
-[CV](files/SCoxe_CV 053122.pdf) / [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
+[CV](files/SCoxe CV 070824.pdf) / [`r fontawesome::fa(name = "google", fill = "steelblue")` scholar](https://scholar.google.com/citations?user=fZEA0AkAAAAJ)
 
 ## Statistical research
 
@@ -35,18 +35,19 @@ I am joint co-PI on [TIDAL](https://doi.org/10.1186/s12888-020-02734-6), an inte
 
 ### **Statistical graphics and R shiny** 
 
-I am interested in graphics as an aid to interpreting and communicating statistical models. To this end, I have developed `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications to calculate effect size for count regression models and to estimate confidence intervals for mediation models. `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications are **interactive, web-based** tools for statistical analysis and graphics.
+I am interested in graphics as an aid to interpreting and communicating statistical models. To this end, I have developed `r fontawesome::fa(name = "r-project", fill = "steelblue")` packages and `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications to calculate effect size for count regression models and to estimate confidence intervals for mediation models. `r fontawesome::fa(name = "r-project", fill = "steelblue")` **shiny** applications are **interactive, web-based** tools for statistical analysis and graphics.
 
-- [RcountD](https://stefany.shinyapps.io/RcountD/): Estimate effect sizes for regression models for count models (Poisson regression and negative binomial regression). Standard multiplicative effect size (rate ratio) and standardized mean difference (Cohen's *d*) effect sizes are provided. Monte Carlo confidence intervals for each effect size are also given. 
+- [countES](https://github.com/stefanycoxe/countES): An `r fontawesome::fa(name = "r-project", fill = "steelblue")` package to estimate effect sizes for regression models for count models (Poisson regression and negative binomial regression). Standard multiplicative effect size (rate ratio) and standardized mean difference (Cohen's *d*) effect sizes are provided. Monte Carlo confidence intervals for each effect size are also given. 
+  - [RcountD](https://stefany.shinyapps.io/RcountD/): An `r fontawesome::fa(name = "r-project", fill = "steelblue")`**shiny** app that implements the same functions
   - [**Coxe, S.** (2018, February). Effect size measures for nonlinear count regression models. Poster presented at the American Statistical Association Conference on Statistical Practice. Portland, OR. February 15 – 17, 2018.](files/Coxe ASA CSP 020618.pdf)
 
 - [SimpleMediation](https://stefany.shinyapps.io/SimpleMediation/): Estimate indirect (mediated) effect with Monte Carlo simulated confidence intervals. This app was developed for pedagogical purposes.
 
-- I teach a course on **Statistical Graphics and Communication** in the Psychology department. This course covers a variety of topics, including **R**, **ggplot2**, **markdown**, and **shiny**. Most of the materials for the *first version* of the course from 2019 are available here: [https://stefanycoxe.github.io/graphics_2019/](https://stefanycoxe.github.io/graphics_2019/)
+- I taught a course on **Statistical Graphics and Communication** in the Psychology department at FIU. This course covered a variety of topics, including **R**, **ggplot2**, **markdown**, and **shiny**. Most of the materials for the *first version* of the course from 2019 are available here: [https://stefanycoxe.github.io/graphics_2019/](https://stefanycoxe.github.io/graphics_2019/)
 
 ## Applied research 
 
-My applied research takes place largely in the context of clinical and psychosocial interventions in the Psychology department and the Center for Children and Families. I also work with faculty in the departments of Epidemiology, Social Work, and Biomedical Engineering. These studies often include complex longitudinal designs, non-normally distributed outcome variables, and extensive missing data. 
+My applied research takes place largely within the [Cancer Institute](https://www.cedars-sinai.org/programs/cancer.html) at Cedars-Sinai Medical Center, focusing on behavioral interventions within the Cancer Prevention and Control and the Health Equity groups. I also have 20 years of experience with clinical and psychosocial interventions in the Psychology departments at Arizona State University and Florida International University. I have also collaborated with faculty in the Center for Children and Families and the departments of Epidemiology, Social Work, and Biomedical Engineering at Florida International University. These studies often include complex longitudinal designs, non-normally distributed outcome variables, and extensive missing data. 
 
 - Zhao, X., **Coxe, S.**, Timmons, A., & Frazier, S. L. (2022). Mental Health Information-Seeking Online: A Google Trends Analysis of ADHD. *Administration and Policy in Mental Health and Mental Health Services Research, 49*, 357 - 373. [https://doi.org/10.1007/s10488-021-01168-w](https://doi.org/10.1007/s10488-021-01168-w)  
 - Sibley, M.H., **Coxe, S.J.**, Page, T.P., Pelham, W.E., Yeguez, C.E., LaCount, P.A., & Barney, S. (2020). Four-Year Follow-up of High versus Low Intensity Summer Treatment for Adolescents with ADHD. *Journal of Clinical Child and Adolescent Psychology*. 
