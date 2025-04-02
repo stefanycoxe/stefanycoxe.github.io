@@ -22,7 +22,7 @@ navbar:
 output:
   html_document: 
     #css: style.css
-    theme: cosmo #flatly
+    theme: darkly #cosmo #flatly
     toc: true
     toc_float: true
 
